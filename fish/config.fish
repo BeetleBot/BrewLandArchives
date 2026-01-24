@@ -2,8 +2,6 @@ if status is-interactive
     set fish_greeting ""
 end
 
-set SPACEFISH_PROMPT_ADD_NEWLINE false
-
 # --- Theme Switching Logic ---
 
 # Function to reload the theme instantly when receiving SIGUSR1
